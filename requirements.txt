@@ -7,7 +7,6 @@ iniconfig==2.0.0
 itsdangerous==2.1.2
 pluggy==1.2.0
 postgres==4.0
-postgresql-wheel==14.1.2
 psycopg2==2.9.6
 psycopg2-binary==2.9.6
 psycopg2-pool==1.1
